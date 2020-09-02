@@ -39,7 +39,7 @@ sap.ui.define([
 				
 				if(remainingTime == 0){
 					this.getView().getModel().setProperty("/timeUp", true);
-					this.audio.play();
+					// this.audio.play();
 					clearInterval(this.timeInterval);
 				}
 			}.bind(this), 1000);       
@@ -75,7 +75,6 @@ sap.ui.define([
 				"Sean Walsh",
 				"Puneet Lajpal",
 				"Adam Cody",
-				"Andrzej Koeller",
 				"Vincent Lee",
 				"Bryan McSpadden",
 				"Ovidiu Muntaen",
@@ -89,11 +88,11 @@ sap.ui.define([
 				"Maxime Skuse",
 				"Pavel Stratan",
 				"Agnieszka Szczpankiewicz",
-				"Emerson Urushibata",
 				"Oliver Zimmerman",
 				"Sean Leonard",
 				"Chirag Poddar", 
-				"Adam Quirke"
+				"Adam Quirke", 
+				"Mario Mikulandra"
 			];
 			return aTeamMembers;
 		}, 
