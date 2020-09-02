@@ -91,7 +91,6 @@ sap.ui.define([
 				"Oliver Zimmerman",
 				"Sean Leonard",
 				"Chirag Poddar", 
-				"Adam Quirke", 
 				"Mario Mikulandra"
 			];
 			return aTeamMembers;
