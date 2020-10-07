@@ -85,7 +85,6 @@ sap.ui.define([
 				"Rituraj Sambherao",
 				"Neerup Sarkar",
 				"Setu Saxena",
-				"Maxime Skuse",
 				"Pavel Stratan",
 				"Agnieszka Szczpankiewicz",
 				"Oliver Zimmerman",
